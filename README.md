@@ -9,6 +9,12 @@ Mentor:
 OverView of Project 
 Title: Todo List Project Overview in JavaScript, HTML, and CSS
 
+
+![image](https://github.com/KeshavDubey13/CODTECH-Task1/assets/83154845/9d75946f-f2e2-4acb-9508-646b1cfb302c)
+
+![image](https://github.com/KeshavDubey13/CODTECH-Task1/assets/83154845/93ec4dd4-364e-443b-9e86-dadff790c731)
+
+
 Our Todo List project combines JavaScript for dynamic functionality, HTML for structure, and CSS for styling to create an efficient task management tool. Leveraging JavaScript's DOM manipulation capabilities, we enable users to add, delete, edit, and mark tasks as complete seamlessly within the browser.
 
 The HTML structure forms the backbone, defining the layout and elements essential for task entry and display. CSS is employed to ensure a clean and visually appealing interface, enhancing user experience with responsive design principles.
