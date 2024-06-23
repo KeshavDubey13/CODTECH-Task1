@@ -3,8 +3,7 @@ company: CODTECH IT SOLUTIONS
 ID: CT12DS285
 Domain: WEB DEVELOPMENT
 Duration:25th May to 25 July
-Mentor:
-
+Mentor: Sravani Gouni
 
 OverView of Project 
 Title: Todo List Project Overview in JavaScript, HTML, and CSS
