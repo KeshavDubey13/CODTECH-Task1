@@ -1,0 +1,77 @@
+/* Basic styling for the To-Do List */
+h2{
+    color: white;
+}
+.container {
+    position: relative;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #080707;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.addTask{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* Style the input field and button */
+#myInput {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #4d4d4d;
+    background: transparent;
+    border-radius: 3px;
+    color: white;
+}
+
+.addBtn {
+    width: 10%;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-align: center;
+    background-color: #383838;
+    margin-left: 5px;
+    color: rgb(255, 255, 255);
+    border-radius: 3px;
+}
+
+/* Style the list items */
+#myUL li {
+    position: relative;
+    list-style-type: none;
+    margin-bottom: 10px;
+    width: 90%;
+    padding: 10px 5px;
+    word-wrap: normal;
+    background-color: rgb(171, 64, 64);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+ul li.checked {
+   text-decoration:line-through;
+   color: rgb(37, 124, 37);
+}
+
+.checkbox{
+    display: none;
+}
+.close{
+    cursor: pointer;
+    position: relative;
+    left: 0;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #181918;
+   text-align: center;
+    font-size: 20px;
+    font-weight: 900;
+    margin-left: 20px;
+    color: white;
+}
